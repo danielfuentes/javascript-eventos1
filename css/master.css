@@ -1,0 +1,26 @@
+.hombreCaminandoIzquierda{
+    transform: rotateY(180deg);
+}
+
+.dia{
+    background-image: url('../img/dia.jpg');
+    background-size: cover;
+}
+.tarde{
+    background-image: url('../img/tarde.jpg');
+    background-size: cover;
+}
+.noche{
+    background-image: url('../img/noche.jpg');
+    background-size: cover;
+}
+.hombreCaminando{
+    margin-top: 530px;
+}
+.miH1{
+    font-family: fantasy;
+    font-size: 50px;
+    margin-top: 200px;
+    text-align: center;
+    z-index: 100;
+}
